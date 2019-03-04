@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:text="Ich bin ein vertikales Linear Layout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/yellow" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/red" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/green" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/blue" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="25dp"
+            android:text="Ich bin ein horizontales Layout" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/yellow" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/red" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/green" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="200dp"
+            android:layout_weight="1"
+            android:background="@color/blue" />
+    </LinearLayout>
+
+</LinearLayout>
