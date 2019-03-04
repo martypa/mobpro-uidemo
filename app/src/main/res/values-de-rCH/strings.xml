@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI-Demo</string>
+    <string name="unterTitel">Salü Zämme zum zweita Kursblog</string>
+    <string name="kapitel_1">1. s Läyout</string>
+    <string name="kapitel_2">2. Bildschrim längs und Quer und Sprochuswahl</string>
+    <string name="kapitel_3">3. Anzeige und Fäscht</string>
+    <string name="kapitel_4">4. Options Menu</string>
+    <string name="kapitel_5">5. Spinner und ListActivity</string>
+    <string name="kapitel_6">6. Zustands- Zwischenspeicherung</string>
+    <string name="kapitel_7">7. Dialoge und Notification</string>
+
+    <string name="k1_text">Suechter eis vo da Layouts für a Demo us:</string>
+    <string name="k1_rbutton_1">Linäar Läyout</string>
+    <string name="k1_rbutton_2">Relative Läyout</string>
+
+
+    <string name="k2_text">Dia Siita zeigt a apassts Läyout für Querasicht. Und du kasch sproch uf Schwiizerdüütsch umstella</string>
+
+
+    <string name="k3_button">Siita mit aSicht Biispiel</string>
+</resources>

@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">UI-Demo</string>
+    <string name="unterTitel">Willkommen zum zweiten Kursblock</string>
+    <string name="kapitel_1">1. Layout</string>
+    <string name="kapitel_2">2. Screen- Orientation und Übersetzung</string>
+    <string name="kapitel_3">3. Views und Events</string>
+    <string name="kapitel_4">4. Options Menu</string>
+    <string name="kapitel_5">5. Spinner und ListActivity</string>
+    <string name="kapitel_6">6. Zustands- Zwischenspeicherung</string>
+    <string name="kapitel_7">7. Dialoge und Notification</string>
+
+    <string name="k1_text">Wähle eines der folgenden Layouts für ein Demo</string>
+    <string name="k1_rbutton_1">LinearLayout</string>
+    <string name="k1_rbutton_2">RelativeLayout</string>
+
+
+    <string name="k2_text">Diese Seite hat ein angepasstes Layout für Landscape Mode. Probier es aus!
+        Ausserdem kann sich auch Schweizerdeutsch: Stelle die Sprache im Handy auf Deutsch(Schweiz) um und starte die App erneut</string>
+
+
+    <string name="k3_button">Seite mit Views- Demos anzeigen</string>
+
 </resources>

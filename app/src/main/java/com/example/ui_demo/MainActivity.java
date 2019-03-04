@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public void choosRadioButton(View radioButton){
         RadioButton button = (RadioButton) radioButton;
         Intent intent = new Intent(this, LayoutDemoActivity.class);
-        if(button.getText().toString().equals("Linear Layout")){
+        if(button.getText().toString().equals(getString(R.string.k1_rbutton_1))){
             intent.putExtra("msg","linearLayout");
         }else{
             intent.putExtra("msg","relativLayout");
